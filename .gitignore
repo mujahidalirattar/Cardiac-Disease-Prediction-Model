@@ -1,0 +1,34 @@
+Python Virtual Environments
+
+.venv/
+venv/
+ENV/
+env/
+
+Python Bytecode and Cache
+
+pycache/
+*.py[cod]
+*$py.class
+
+Temporary or Generated Model Backups
+
+*.prev.pkl
+*.tmp
+
+Operating System Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+IDE & Editor Settings
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+Streamlit Local Configuration
+
+.streamlit/secrets.toml
